@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rivenintech/WatchVault">
+  <a href="https://github.com/rivndev/WatchVault">
     <img src="./apps/mobile/assets/images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,9 +15,9 @@
     <br />
     <a href="#app-video-demo">View Demo</a>
     <!-- &middot;
-    <a href="https://github.com/rivenintech/WatchVault/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/rivndev/WatchVault/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/rivenintech/WatchVault/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
+    <a href="https://github.com/rivndev/WatchVault/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a> -->
   </p>
 </div>
 
@@ -112,7 +112,7 @@ This is an example of how to list things you need to use the software and how to
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/rivenintech/WatchVault.git
+   git clone https://github.com/rivndev/WatchVault.git
    ```
 
 3. Install NPM packages
@@ -130,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
 5. Change git remote url to avoid accidental pushes to base project
 
    ```sh
-   git remote set-url origin rivenintech/WatchVault
+   git remote set-url origin rivndev/WatchVault
    git remote -v # confirm the changes
    ```
 
@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Contact
 
-[rivenintech.com](https://rivenintech.com) - All of my socials and contact information can be found on my website.
+[rivn.dev](https://rivn.dev) - All of my socials and contact information can be found on my website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

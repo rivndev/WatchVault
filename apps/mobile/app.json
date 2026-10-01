@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.rivenintech.watchvault"
+      "bundleIdentifier": "com.rivndev.watchvault"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#2A2845"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.rivenintech.watchvault"
+      "package": "com.rivndev.watchvault"
     },
     "web": {
       "bundler": "metro",
@@ -52,6 +52,6 @@
         "projectId": "dbc47116-fe9a-4972-a753-03b3efba91a9"
       }
     },
-    "owner": "rivenintech"
+    "owner": "rivndev"
   }
 }
